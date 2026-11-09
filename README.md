@@ -11,8 +11,5 @@ This repository provides a template for creating a portfolio for the Q2 course "
 Edit the content and configuration files to suit your needs. Refer to the [JupyterBook documentation](https://jupyterbook.org/) for more details.
 
 ## License
-
+hoi
 MIT License. See the [LICENSE](LICENSE) file for details.
-hallo
-hallo
-mfew
